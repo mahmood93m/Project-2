@@ -164,7 +164,7 @@ article p {
 }
 
   #w-logos {
-    float: bottom-left;
+    
     position: relative;
     padding-top: 20px;
     padding-right: 20px;
@@ -173,7 +173,7 @@ article p {
 main {
     height: 350px;
     background-color: #fff;
-    float: center;
+    float: middle;
 }
 
 #nav-links {
