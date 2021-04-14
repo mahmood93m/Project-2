@@ -163,7 +163,7 @@ article p {
 
 /* Make it a marquee */
 .marquee {
-    width: 1450px;
+    width: 1250px;
     margin: 10 auto;
     white-space: nowrap;
     overflow: hidden;
