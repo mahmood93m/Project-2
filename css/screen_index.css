@@ -164,7 +164,6 @@ article p {
 /* Make it a marquee */
 .marquee {
     width: 100%;
-    margin: 10 auto;
     white-space: nowrap;
     overflow: hidden;
     box-sizing: border-box;
@@ -254,7 +253,6 @@ header {
 
 #w-logos {
     max-width: 50%;
-    float: middle;
     position: relative;
     padding-top: 10px;
 }
