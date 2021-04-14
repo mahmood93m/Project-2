@@ -64,11 +64,11 @@ header {
 
 #nav-links li a:hover {
 	text-decoration: none;
-    color: #8dc3ea;
+    color: #fff;
 }
 
 main {
-    background-color: #e1e2e1;
+    background-color: #fff;
     padding-top: 75px;
     padding-bottom: 75px;
 }
