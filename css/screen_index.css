@@ -172,7 +172,6 @@ article p {
 main {
     height: 350px;
     background-color: #fff;
-    float: middle;
 }
 
 #nav-links {
@@ -225,7 +224,6 @@ header {
 
 #w-logos {
     max-width: 50%;
-    float: middle;
     position: relative;
     padding-top: 10px;
 }
