@@ -155,7 +155,6 @@ article p {
 /* Make it a marquee */
 .marquee {
     width: 1450px;
-    margin: 10 auto;
     white-space: nowrap;
     overflow: hidden;
     box-sizing: border-box;
@@ -190,7 +189,7 @@ article p {
 }
 
   #w-logos {
-    float: bottom-left;
+    
     position: relative;
     padding-top: 20px;
     padding-right: 20px;
@@ -199,7 +198,6 @@ article p {
 main {
     height: 350px;
     background-color: #fff;
-    float: center;
 }
 
 #nav-links {
@@ -252,7 +250,6 @@ header {
 
 #w-logos {
     max-width: 50%;
-    float: middle;
     position: relative;
     padding-top: 10px;
 }
