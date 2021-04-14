@@ -45,8 +45,8 @@ header {
     text-indent: 50px;
     float: right;
     padding: 20px;
-    background-color: #fff;
-    border: 20px #fff;
+    background-color: rgb(99, 137, 185);
+    border: 10px #fff;
     border-bottom-style: ridge;
     text-align: center;
 }
