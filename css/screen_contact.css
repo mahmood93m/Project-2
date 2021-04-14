@@ -42,3 +42,30 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 
 
+@media screen and (min-width: 600px) {
+  #wrap {
+    display: inline-block;
+    font-size: 100%;
+    text-align: left;
+    justify-content: left;
+  }
+
+  h1 {
+    font-size: 200%;
+  }
+
+}
+
+@media screen and (min-width: 40em) {
+  #wrap {
+    display: inline-block;
+    justify-content: center;
+  }
+
+  html {
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+  }
+}
+
