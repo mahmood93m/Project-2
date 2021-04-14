@@ -10,7 +10,6 @@ html{
 }
 
 #w-logos :hover {
-    background-image: url('../images/logoclick.png');
     margin-bottom: 30px;
 }
 
