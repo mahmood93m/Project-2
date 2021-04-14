@@ -41,12 +41,4 @@ body {font-family: Arial, Helvetica, sans-serif;}
   opacity: 5;
 }
 
-@media screen and (max-width:350px) {
-body {
-    height: 800px;
-}
 
-header {
-    height: 80px;
-    background-color: #2b6ca3;
-  }
