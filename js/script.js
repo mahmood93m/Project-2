@@ -1,3 +1,8 @@
+/* Team Blue Screens
+  Griselda Pasillas
+  Yelitza Castro
+  Mahmood Mehrjoo */
+
 /* Slider JS */
 var myIndex = 0;
 chicago();
@@ -11,5 +16,8 @@ function chicago() {
   myIndex++;
   if (myIndex > x.length) {myIndex = 1}
   x[myIndex-1].style.display = "block";
-  setTimeout(chicago, 5000);
+  setTimeout(chicago, 6000);
 }
+
+
+
